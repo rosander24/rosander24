@@ -1,16 +1,47 @@
-### Hi there 👋
+<h1>Randy - Cybersecurity</h1>
+
+ ### 
+
+<h2>Description</h2> Project consist of: 
+
+
+
+- Conducting a security audit
+
+- Analyzing network structure and security
+
+- Using Linux commands to manage file permissions
+
+- Applying filters to SQL queries
+
+- Identifying vulnerabilities for a small business
+
+- Documenting incidents with an incident handler’s journal 
+
+- Importing and parsing a text file in a security-related scenario
+
+<br />
+
+
+<h2>Languages and Utilities Used</h2>
+
+- <b>Python</b> 
+- <b>SQL</b>
+
+<h2>Environments Used </h2>
+
+- <b>MAC OS
+
+<h2>Program walk-through:</h2>
+
+
 
 <!--
-**rosander24/rosander24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+--!>
